@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://<your-portfolio-url>">🌐 Portfolio</a> •
-  <a href="https://github.com/<Harshitha418>">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/<mpharshithaa>">🔗 LinkedIn</a>
+  <a href="https://github.com/Harshitha418">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/mpharshithaa">🔗 LinkedIn</a>
 </p>
 
 ---
