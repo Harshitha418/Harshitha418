@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Harshitha</h1>
+<h1 align="center">Hi, I'm Harshitha</h1>
 
 <p align="center">
   <a href="https://<your-portfolio-url>">🌐 Portfolio</a> •
