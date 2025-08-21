@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Harshitha</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZyajl5MzJ0cnp4MDFhMzRmcWZ4OXlhYXVpZzhwYjh0Ym04eWhpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/brnrokmYFFT0Znl5hQ/giphy.gif" width="250" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWExb2ppYTFocXlsN21lYjN4cDl6djIxbWJqazI3dDVzZXd3dHlqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="2000" />
 </p>
+
 
 <p align="center">
   <a href="https://<your-portfolio-url>">
